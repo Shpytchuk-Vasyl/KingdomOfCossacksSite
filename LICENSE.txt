@@ -1,0 +1,34 @@
+Держава Козаків – сайт гри
+
+© 2026 ФОП Шпитчук Василь Андрійович. Усі права захищені.
+
+Тексти, зображення, скриншоти, ключовий арт, іконка, відео й код цього сайту належать розробнику гри.
+Копіювати, змінювати й поширювати їх без письмового дозволу розробника не можна.
+
+Виняток: матеріали прес-кіту (сторінка /press/) можна вільно використовувати в оглядах, новинах і відео про гру.
+
+Сторонні матеріали мають власні ліцензії:
+- шрифти Kurale і Rubik – SIL Open Font License 1.1, тексти ліцензій у assets/fonts/;
+- значки – game-icons.net (Lorc, Delapouite, Skoll, Sbed), CC BY 3.0: https://creativecommons.org/licenses/by/3.0/;
+- Google Play і логотип Google Play – товарні знаки Google LLC; Steam і логотип Steam – товарні знаки Valve Corporation.
+
+Контакт: shpakstudio.ua@gmail.com
+
+---
+
+Kingdom of Cossacks – game website
+
+© 2026 Vasyl Shpytchuk, sole proprietor. All rights reserved.
+
+The texts, images, screenshots, key art, icon, videos and code of this website belong to the game's developer.
+They may not be copied, modified or distributed without the developer's written permission.
+
+Exception: the press kit materials (the /press/ page) are free to use in reviews, news and videos about the game.
+
+Third-party materials have their own licenses:
+- Kurale and Rubik typefaces – SIL Open Font License 1.1, license texts in assets/fonts/;
+- icons – game-icons.net (Lorc, Delapouite, Skoll, Sbed), CC BY 3.0: https://creativecommons.org/licenses/by/3.0/;
+- Google Play and the Google Play logo are trademarks of Google LLC; Steam and the Steam logo are trademarks of
+  Valve Corporation.
+
+Contact: shpakstudio.ua@gmail.com
